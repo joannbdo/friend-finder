@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannbdo/friend-finder"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "brad nielsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joannbdo/friend-finder"
+  },
+  "homepage": "https://github.com/joannbdo/friend-findeder",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
